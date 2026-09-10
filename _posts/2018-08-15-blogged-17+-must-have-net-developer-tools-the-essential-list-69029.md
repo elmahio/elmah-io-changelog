@@ -6,4 +6,4 @@ slug: blogged-17+-must-have-net-developer-tools-the-essential-list-69029
 permalink: /blogged-17+-must-have-net-developer-tools-the-essential-list-69029/
 ---
 
-Check out the list of our favourite .NET tools (that we use to build elmah.io): https://blog.elmah.io/17-must-have-net-developer-tools-the-essential-list/
+Check out the list of our favourite .NET tools (that we use to build elmah.io): [https://blog.elmah.io/17-must-have-net-developer-tools-the-essential-list/](https://blog.elmah.io/17-must-have-net-developer-tools-the-essential-list/)

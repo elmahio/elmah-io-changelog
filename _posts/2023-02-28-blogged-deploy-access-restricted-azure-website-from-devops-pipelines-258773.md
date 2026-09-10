@@ -6,6 +6,6 @@ slug: blogged-deploy-access-restricted-azure-website-from-devops-pipelines-25877
 permalink: /blogged-deploy-access-restricted-azure-website-from-devops-pipelines-258773/
 ---
 
-https://blog.elmah.io/deploy-access-restricted-azure-website-from-devops-pipelines/
+[https://blog.elmah.io/deploy-access-restricted-azure-website-from-devops-pipelines/](https://blog.elmah.io/deploy-access-restricted-azure-website-from-devops-pipelines/)
 
-[![Deploy Access Restricted Azure website from DevOps Pipelines](/images/258773/919-4a3f7e46dd3af68cf8e48bef1b6bd8a9dae20da3.png)](https://blog.elmah.io/deploy-access-restricted-azure-website-from-devops-pipelines/)
+[![Deploy Access Restricted Azure website from DevOps Pipelines](/images/258773/919-4a3f7e46dd3af68cf8e48bef1b6bd8a9dae20da3.png)]([https://blog.elmah.io/deploy-access-restricted-azure-website-from-devops-pipelines/](https://blog.elmah.io/deploy-access-restricted-azure-website-from-devops-pipelines/))

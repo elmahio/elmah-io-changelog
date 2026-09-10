@@ -6,4 +6,4 @@ slug: blogged-3-new-free-tools-for-net-developers-211367
 permalink: /blogged-3-new-free-tools-for-net-developers-211367/
 ---
 
-https://blog.elmah.io/3-new-free-tools-for-net-developers/
+[https://blog.elmah.io/3-new-free-tools-for-net-developers/](https://blog.elmah.io/3-new-free-tools-for-net-developers/)

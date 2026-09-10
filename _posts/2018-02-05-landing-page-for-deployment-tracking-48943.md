@@ -6,7 +6,7 @@ slug: landing-page-for-deployment-tracking-48943
 permalink: /landing-page-for-deployment-tracking-48943/
 ---
 
-To spread the knowledge about our Deployment Tracking feature (we haven't been good enough telling users about the benefits), we've put up a new landing page: https://elmah.io/features/deploymenttracking/
+To spread the knowledge about our Deployment Tracking feature (we haven't been good enough telling users about the benefits), we've put up a new landing page: [https://elmah.io/features/deploymenttracking/](https://elmah.io/features/deploymenttracking/)
 
 Deployment Tracking is already included for all Business subscriptions and up. For help setting it up, check out [Set Up Deployment Tracking](https://docs.elmah.io/setup-deployment-tracking/).
 

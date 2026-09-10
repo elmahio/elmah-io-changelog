@@ -6,4 +6,4 @@ slug: create-deployments-from-gitlab-pipelines-291300
 permalink: /create-deployments-from-gitlab-pipelines-291300/
 ---
 
-There's a new help article showing how to create elmah.io deployments from GitLab Pipelines: https://docs.elmah.io/create-deployments-from-gitlab-pipelines/
+There's a new help article showing how to create elmah.io deployments from GitLab Pipelines: [https://docs.elmah.io/create-deployments-from-gitlab-pipelines/](https://docs.elmah.io/create-deployments-from-gitlab-pipelines/)

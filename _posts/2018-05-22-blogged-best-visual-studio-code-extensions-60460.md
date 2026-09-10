@@ -6,4 +6,4 @@ slug: blogged-best-visual-studio-code-extensions-60460
 permalink: /blogged-best-visual-studio-code-extensions-60460/
 ---
 
-https://blog.elmah.io/best-visual-studio-code-extensions/
+[https://blog.elmah.io/best-visual-studio-code-extensions/](https://blog.elmah.io/best-visual-studio-code-extensions/)

@@ -10,4 +10,4 @@ Uptime Monitoring now supports Problem Details in the response from your endpoin
 
 If our Uptime checker identifies Problem Details in your response, we extract this information and present it as part of the logged error.
 
-Check out the specification here: https://tools.ietf.org/html/rfc7807
+Check out the specification here: [https://tools.ietf.org/html/rfc7807](https://tools.ietf.org/html/rfc7807)

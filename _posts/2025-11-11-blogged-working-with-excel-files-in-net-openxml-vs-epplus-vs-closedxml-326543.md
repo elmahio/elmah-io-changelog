@@ -6,6 +6,6 @@ slug: blogged-working-with-excel-files-in-net-openxml-vs-epplus-vs-closedxml-326
 permalink: /blogged-working-with-excel-files-in-net-openxml-vs-epplus-vs-closedxml-326543/
 ---
 
-https://blog.elmah.io/working-with-excel-files-in-net-openxml-vs-epplus-vs-closedxml/
+[https://blog.elmah.io/working-with-excel-files-in-net-openxml-vs-epplus-vs-closedxml/](https://blog.elmah.io/working-with-excel-files-in-net-openxml-vs-epplus-vs-closedxml/)
 
 Compare OpenXML, EPPlus, and ClosedXML for Excel in .NET. Learn their pros, cons, and C# examples to pick the right library for your project.

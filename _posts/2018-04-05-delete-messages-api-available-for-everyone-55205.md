@@ -12,4 +12,4 @@ API endpoints for deleting a single or multiple messages, are now available for 
 
 Cleaning up logs won't reset your message limit, but it can help you get a better overview, by removing all messages matching a specified query, etc.
 
-Visit https://api.elmah.io/swagger/ for details.
+Visit [https://api.elmah.io/swagger/](https://api.elmah.io/swagger/) for details.

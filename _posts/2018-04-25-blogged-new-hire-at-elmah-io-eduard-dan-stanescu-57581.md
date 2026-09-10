@@ -6,4 +6,4 @@ slug: blogged-new-hire-at-elmah-io-eduard-dan-stanescu-57581
 permalink: /blogged-new-hire-at-elmah-io-eduard-dan-stanescu-57581/
 ---
 
-https://blog.elmah.io/new-hire-at-elmah-io-eduard-dan-stanescu/
+[https://blog.elmah.io/new-hire-at-elmah-io-eduard-dan-stanescu/](https://blog.elmah.io/new-hire-at-elmah-io-eduard-dan-stanescu/)

@@ -6,4 +6,4 @@ slug: blogged-our-favourite-net-azure-and-c-podcasts-77168
 permalink: /blogged-our-favourite-net-azure-and-c-podcasts-77168/
 ---
 
-https://blog.elmah.io/our-favourite-net-azure-and-csharp-podcasts/
+[https://blog.elmah.io/our-favourite-net-azure-and-csharp-podcasts/](https://blog.elmah.io/our-favourite-net-azure-and-csharp-podcasts/)

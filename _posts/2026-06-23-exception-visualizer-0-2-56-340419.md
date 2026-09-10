@@ -6,7 +6,7 @@ slug: exception-visualizer-0-2-56-340419
 permalink: /exception-visualizer-0-2-56-340419/
 ---
 
-There's a new version of Exception Visualizer in the Marketplace: https://marketplace.visualstudio.com/items?itemName=elmahio.exceptioninspector. Exception Visualizer is our free extension for Visual Studio that brings an elmah.io-ish look and feel to exceptions while debugging.
+There's a new version of Exception Visualizer in the Marketplace: [https://marketplace.visualstudio.com/items?itemName=elmahio.exceptioninspector](https://marketplace.visualstudio.com/items?itemName=elmahio.exceptioninspector). Exception Visualizer is our free extension for Visual Studio that brings an elmah.io-ish look and feel to exceptions while debugging.
 
 The new version includes:
 

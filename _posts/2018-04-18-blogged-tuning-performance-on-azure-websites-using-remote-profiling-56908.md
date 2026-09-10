@@ -6,4 +6,4 @@ slug: blogged-tuning-performance-on-azure-websites-using-remote-profiling-56908
 permalink: /blogged-tuning-performance-on-azure-websites-using-remote-profiling-56908/
 ---
 
-https://blog.elmah.io/tuning-performance-on-azure-websites-using-remote-profiling/
+[https://blog.elmah.io/tuning-performance-on-azure-websites-using-remote-profiling/](https://blog.elmah.io/tuning-performance-on-azure-websites-using-remote-profiling/)

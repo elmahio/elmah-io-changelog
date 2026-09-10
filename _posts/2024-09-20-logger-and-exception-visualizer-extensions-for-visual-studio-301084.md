@@ -18,7 +18,7 @@ As an elmah.io user, there's an extra benefit in using the extension. When the `
 
 ![elmah.io tab](/images/301084/902-8a48cf624de1b3d79a25e6df489c1de528e0a9ab.png)
 
-Logger Visualizer is available through the Visual Studio Marketplace: https://marketplace.visualstudio.com/items?itemName=elmahio.loggervisualizer
+Logger Visualizer is available through the Visual Studio Marketplace: [https://marketplace.visualstudio.com/items?itemName=elmahio.loggervisualizer](https://marketplace.visualstudio.com/items?itemName=elmahio.loggervisualizer)
 
 ## Exception Visualizer
 
@@ -26,4 +26,4 @@ Getting a good overview of an exception through Visual Studio's built-in visuali
 
 ![Exception Visualizer](/images/301084/904-b6bb1de946c735c20ab75570246d381b770782d8.png)
 
-Exception Visualizer is available through the Visual Studio Marketplace: https://marketplace.visualstudio.com/items?itemName=elmahio.exceptioninspector
+Exception Visualizer is available through the Visual Studio Marketplace: [https://marketplace.visualstudio.com/items?itemName=elmahio.exceptioninspector](https://marketplace.visualstudio.com/items?itemName=elmahio.exceptioninspector)

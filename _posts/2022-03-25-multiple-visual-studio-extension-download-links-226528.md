@@ -12,6 +12,6 @@ We gave up waiting for the Visual Studio Marketplace to support multi-targeting 
 
 For reference, here are the download links if you want to check out the elmah.io Visual Studio extension:
 
-Visual Studio ≤ 2019 - https://marketplace.visualstudio.com/items?itemName=elmahio.elmahio
+Visual Studio ≤ 2019 - [https://marketplace.visualstudio.com/items?itemName=elmahio.elmahio](https://marketplace.visualstudio.com/items?itemName=elmahio.elmahio)
 
-Visual Studio 2022 - https://marketplace.visualstudio.com/items?itemName=elmahio.elmahiobrowser2022
+Visual Studio 2022 - [https://marketplace.visualstudio.com/items?itemName=elmahio.elmahiobrowser2022](https://marketplace.visualstudio.com/items?itemName=elmahio.elmahiobrowser2022)

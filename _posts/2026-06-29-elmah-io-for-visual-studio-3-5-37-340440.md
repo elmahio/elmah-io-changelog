@@ -6,7 +6,7 @@ slug: elmah-io-for-visual-studio-3-5-37-340440
 permalink: /elmah-io-for-visual-studio-3-5-37-340440/
 ---
 
-There's a new version of the elmah.io Visual Studio extension in the Marketplace: https://marketplace.visualstudio.com/items?itemName=elmahio.elmahiobrowser2022.
+There's a new version of the elmah.io Visual Studio extension in the Marketplace: [https://marketplace.visualstudio.com/items?itemName=elmahio.elmahiobrowser2022](https://marketplace.visualstudio.com/items?itemName=elmahio.elmahiobrowser2022).
 
 The new version includes the following changes:
 

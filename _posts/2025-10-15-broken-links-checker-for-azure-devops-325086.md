@@ -6,7 +6,7 @@ slug: broken-links-checker-for-azure-devops-325086
 permalink: /broken-links-checker-for-azure-devops-325086/
 ---
 
-We have open-sourced and published our Broken Links Checker for Azure DevOps. With this extension, you can automatically scan your code for links during a build and have Azure DevOps test all of those links. Get it on the Azure DevOps Marketplace here: https://marketplace.visualstudio.com/items?itemName=elmahio.broken-links-checker.
+We have open-sourced and published our Broken Links Checker for Azure DevOps. With this extension, you can automatically scan your code for links during a build and have Azure DevOps test all of those links. Get it on the Azure DevOps Marketplace here: [https://marketplace.visualstudio.com/items?itemName=elmahio.broken-links-checker](https://marketplace.visualstudio.com/items?itemName=elmahio.broken-links-checker).
 
 Here's a quick example of YAML for running the checker:
 

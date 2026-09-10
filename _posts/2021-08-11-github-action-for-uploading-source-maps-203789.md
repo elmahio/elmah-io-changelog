@@ -20,4 +20,4 @@ with:
   minifiedJavaScript: 'path/to/sharedbundle.min.js'
 ```
 
-There's a new section in the Source map documentation explaining this in more detail: https://docs.elmah.io/sourcemaps/#upload-from-github-actions. Be aware that the server-side source map feature is still in beta.
+There's a new section in the Source map documentation explaining this in more detail: [https://docs.elmah.io/sourcemaps/#upload-from-github-actions](https://docs.elmah.io/sourcemaps/#upload-from-github-actions). Be aware that the server-side source map feature is still in beta.

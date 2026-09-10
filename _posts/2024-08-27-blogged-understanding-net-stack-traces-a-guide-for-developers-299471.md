@@ -6,6 +6,6 @@ slug: blogged-understanding-net-stack-traces-a-guide-for-developers-299471
 permalink: /blogged-understanding-net-stack-traces-a-guide-for-developers-299471/
 ---
 
-https://blog.elmah.io/understanding-net-stack-traces-a-guide-for-developers/
+[https://blog.elmah.io/understanding-net-stack-traces-a-guide-for-developers/](https://blog.elmah.io/understanding-net-stack-traces-a-guide-for-developers/)
 
-[![Understanding .NET stack traces - A guide for developers](/images/299471/686-84b0419c31322ee5ac089364f09165cfea882d56.png)](https://blog.elmah.io/understanding-net-stack-traces-a-guide-for-developers/)
+[![Understanding .NET stack traces - A guide for developers](/images/299471/686-84b0419c31322ee5ac089364f09165cfea882d56.png)]([https://blog.elmah.io/understanding-net-stack-traces-a-guide-for-developers/](https://blog.elmah.io/understanding-net-stack-traces-a-guide-for-developers/))

@@ -6,4 +6,4 @@ slug: blogged-continuous-deployment-to-azure-in-visual-studio-team-service-71197
 permalink: /blogged-continuous-deployment-to-azure-in-visual-studio-team-service-71197/
 ---
 
-https://blog.elmah.io/continuous-deployment-to-azure-in-visual-studio-team-service/
+[https://blog.elmah.io/continuous-deployment-to-azure-in-visual-studio-team-service/](https://blog.elmah.io/continuous-deployment-to-azure-in-visual-studio-team-service/)

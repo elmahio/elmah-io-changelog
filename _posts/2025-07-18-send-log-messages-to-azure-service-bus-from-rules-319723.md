@@ -10,4 +10,4 @@ There's a new authentication method available on HTTP rules named *SharedAccessS
 
 ![image.png](/images/319723/670-ccb8d98e9c6bd4baf3d71f7f107afec8abdd410f.png)
 
-There's an example of how to generate a SAS from code available here: https://docs.elmah.io/sending-messages-from-elmah-io-to-azure-service-bus-using-sas-authentication/. For now, you will need to generate a SAS manually and set a long expiration date or update it frequently. If this is something that people are interested in, we might add an app that automates this later on.
+There's an example of how to generate a SAS from code available here: [https://docs.elmah.io/sending-messages-from-elmah-io-to-azure-service-bus-using-sas-authentication/](https://docs.elmah.io/sending-messages-from-elmah-io-to-azure-service-bus-using-sas-authentication/). For now, you will need to generate a SAS manually and set a long expiration date or update it frequently. If this is something that people are interested in, we might add an app that automates this later on.

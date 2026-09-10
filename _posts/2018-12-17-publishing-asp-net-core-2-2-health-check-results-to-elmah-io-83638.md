@@ -6,4 +6,4 @@ slug: publishing-asp-net-core-2-2-health-check-results-to-elmah-io-83638
 permalink: /publishing-asp-net-core-2-2-health-check-results-to-elmah-io-83638/
 ---
 
-https://blog.elmah.io/publishing-asp-net-core-2-2-health-check-results-to-elmah-io/
+[https://blog.elmah.io/publishing-asp-net-core-2-2-health-check-results-to-elmah-io/](https://blog.elmah.io/publishing-asp-net-core-2-2-health-check-results-to-elmah-io/)

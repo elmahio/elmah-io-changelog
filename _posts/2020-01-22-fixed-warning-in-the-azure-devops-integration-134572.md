@@ -12,4 +12,4 @@ Those of you who use the integration between Azure DevOps and elmah.io may have 
 ##[warning]Task 'ElmahIoDeploymentNotification' (3.1.1) is using deprecated task execution handler. The task should use the supported task-lib: https://aka.ms/tasklib
 ```
 
-We released a new version which fixes this warning. The new integration is automatically rolled out to your pipelines. If you experience any problems in this process, it can be installed manually from here: https://marketplace.visualstudio.com/items?itemName=elmahio.deploy-tasks
+We released a new version which fixes this warning. The new integration is automatically rolled out to your pipelines. If you experience any problems in this process, it can be installed manually from here: [https://marketplace.visualstudio.com/items?itemName=elmahio.deploy-tasks](https://marketplace.visualstudio.com/items?itemName=elmahio.deploy-tasks)

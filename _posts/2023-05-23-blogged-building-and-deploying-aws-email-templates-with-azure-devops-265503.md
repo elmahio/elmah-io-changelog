@@ -6,6 +6,6 @@ slug: blogged-building-and-deploying-aws-email-templates-with-azure-devops-26550
 permalink: /blogged-building-and-deploying-aws-email-templates-with-azure-devops-265503/
 ---
 
-https://blog.elmah.io/building-and-deploying-aws-email-templates-with-azure-devops/
+[https://blog.elmah.io/building-and-deploying-aws-email-templates-with-azure-devops/](https://blog.elmah.io/building-and-deploying-aws-email-templates-with-azure-devops/)
 
-[![Building and deploying AWS email templates with Azure DevOps](/images/265503/538-7977f708cd1d7373d1d48d49ba34f6f5ccfd359b.png)](https://blog.elmah.io/building-and-deploying-aws-email-templates-with-azure-devops/)
+[![Building and deploying AWS email templates with Azure DevOps](/images/265503/538-7977f708cd1d7373d1d48d49ba34f6f5ccfd359b.png)]([https://blog.elmah.io/building-and-deploying-aws-email-templates-with-azure-devops/](https://blog.elmah.io/building-and-deploying-aws-email-templates-with-azure-devops/))

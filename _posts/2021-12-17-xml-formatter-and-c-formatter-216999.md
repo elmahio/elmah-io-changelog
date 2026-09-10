@@ -8,6 +8,6 @@ permalink: /xml-formatter-and-c-formatter-216999/
 
 We built two new free tools that will probably be the last ones in this round:
 
-XML Formatter - https://elmah.io/tools/xml-formatter/
+XML Formatter - [https://elmah.io/tools/xml-formatter/](https://elmah.io/tools/xml-formatter/)
 
-C# Formatter - https://elmah.io/tools/csharp-formatter/
+C# Formatter - [https://elmah.io/tools/csharp-formatter/](https://elmah.io/tools/csharp-formatter/)

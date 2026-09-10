@@ -6,4 +6,4 @@ slug: retry-failed-request-78189
 permalink: /retry-failed-request-78189/
 ---
 
-We just launched the new Retry Request feature. Check if a failing endpoint has been fixed. More details in this blog post: https://blog.elmah.io/retry-failed-requests/
+We just launched the new Retry Request feature. Check if a failing endpoint has been fixed. More details in this blog post: [https://blog.elmah.io/retry-failed-requests/](https://blog.elmah.io/retry-failed-requests/)

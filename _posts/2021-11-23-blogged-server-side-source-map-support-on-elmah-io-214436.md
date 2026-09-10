@@ -6,6 +6,6 @@ slug: blogged-server-side-source-map-support-on-elmah-io-214436
 permalink: /blogged-server-side-source-map-support-on-elmah-io-214436/
 ---
 
-https://blog.elmah.io/server-side-source-map-support-on-elmah-io/
+[https://blog.elmah.io/server-side-source-map-support-on-elmah-io/](https://blog.elmah.io/server-side-source-map-support-on-elmah-io/)
 
-[![Server-side source map support on elmah.io](/images/214436/829-72061ab218cc33ed354768e662708153859883f5.png)](https://blog.elmah.io/server-side-source-map-support-on-elmah-io/)
+[![Server-side source map support on elmah.io](/images/214436/829-72061ab218cc33ed354768e662708153859883f5.png)]([https://blog.elmah.io/server-side-source-map-support-on-elmah-io/](https://blog.elmah.io/server-side-source-map-support-on-elmah-io/))

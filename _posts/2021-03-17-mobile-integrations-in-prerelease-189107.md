@@ -12,4 +12,4 @@ We are interested in hearing from users who would like to try out the new packag
 
 ![Logging to elmah.io from Xamarin](/images/189107/980-fe6e2277e970a5f0fdda3c06ceeabd846dd3ac40.png)
 
-Also make sure to check out the introduction blog post for the Xamarin integration: https://blog.elmah.io/introducing-support-for-xamarin/
+Also make sure to check out the introduction blog post for the Xamarin integration: [https://blog.elmah.io/introducing-support-for-xamarin/](https://blog.elmah.io/introducing-support-for-xamarin/)

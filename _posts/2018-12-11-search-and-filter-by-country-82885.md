@@ -18,4 +18,4 @@ For easier filtering, you can click the *Add filter* button and search using the
 
 Finally, ignore rules (or any other rule type) can be based on the country too.
 
-The country information is extracted by looking at a combination of HTTP headers like `User-Language` and `Accept-Language`. If you are using Cloudflare, geolocation can be enabled as described here: https://support.cloudflare.com/hc/en-us/articles/200168236-What-does-Cloudflare-IP-Geolocation-do-. We may or may not extend elmah.io with IP-based geolocation, but for now, Cloudflare is the way to go for a 100% accurate resolving of country codes.
+The country information is extracted by looking at a combination of HTTP headers like `User-Language` and `Accept-Language`. If you are using Cloudflare, geolocation can be enabled as described here: [https://support.cloudflare.com/hc/en-us/articles/200168236-What-does-Cloudflare-IP-Geolocation-do-](https://support.cloudflare.com/hc/en-us/articles/200168236-What-does-Cloudflare-IP-Geolocation-do-). We may or may not extend elmah.io with IP-based geolocation, but for now, Cloudflare is the way to go for a 100% accurate resolving of country codes.

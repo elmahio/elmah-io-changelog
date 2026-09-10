@@ -6,7 +6,7 @@ slug: blogged-expression-trees-in-c-building-dynamic-linq-queries-at-runtime-323
 permalink: /blogged-expression-trees-in-c-building-dynamic-linq-queries-at-runtime-323643/
 ---
 
-https://blog.elmah.io/expression-trees-in-c-building-dynamic-linq-queries-at-runtime/
+[https://blog.elmah.io/expression-trees-in-c-building-dynamic-linq-queries-at-runtime/](https://blog.elmah.io/expression-trees-in-c-building-dynamic-linq-queries-at-runtime/)
 
 ![Expression Trees in C#: Building Dynamic LINQ Queries at Runtime](/images/323643/143-f0cd5cbfbae3fae4ddf36b2323fd0367da7158ee.jpg)
 

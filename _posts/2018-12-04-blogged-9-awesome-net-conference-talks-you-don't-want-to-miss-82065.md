@@ -8,4 +8,4 @@ permalink: /blogged-9-awesome-net-conference-talks-you-don't-want-to-miss-82065/
 
 Most conferences tape sessions and make them publicly available after the conference. This is a list of my favorite .NET, C# or Azure related talks.
 
-https://blog.elmah.io/9-awesome-net-conference-talks-you-dont-want-to-miss/
+[https://blog.elmah.io/9-awesome-net-conference-talks-you-dont-want-to-miss/](https://blog.elmah.io/9-awesome-net-conference-talks-you-dont-want-to-miss/)

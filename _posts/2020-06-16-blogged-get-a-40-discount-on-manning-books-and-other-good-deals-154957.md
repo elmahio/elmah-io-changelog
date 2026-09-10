@@ -6,4 +6,4 @@ slug: blogged-get-a-40-discount-on-manning-books-and-other-good-deals-154957
 permalink: /blogged-get-a-40-discount-on-manning-books-and-other-good-deals-154957/
 ---
 
-https://blog.elmah.io/get-a-40-percent-discount-on-manning-books-and-other-good-deals/
+[https://blog.elmah.io/get-a-40-percent-discount-on-manning-books-and-other-good-deals/](https://blog.elmah.io/get-a-40-percent-discount-on-manning-books-and-other-good-deals/)
