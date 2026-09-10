@@ -2,7 +2,11 @@
 layout: default
 title: elmah.io changelog
 ---
+{% if paginator.page == 1 %}
+<h1>elmah.io changelog</h1>
+{% else %}
 <h1><a href="{{ '/' | relative_url }}">elmah.io changelog</a></h1>
+{% endif %}
 {% for post in paginator.posts %}
 <article class="card">
   <a href="{{ post.url | relative_url }}"><h2>{{ post.title }}</h2></a>
