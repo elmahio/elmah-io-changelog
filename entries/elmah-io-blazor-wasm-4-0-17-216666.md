@@ -1,7 +1,0 @@
----
-title: "Elmah.Io.Blazor.Wasm 4.0.17"
-date: 2021-12-15T07:53:12Z
-categories: [New]
-slug: elmah-io-blazor-wasm-4-0-17-216666
----
-We released a new version ([4.0.17](https://www.nuget.org/packages/Elmah.Io.Blazor.Wasm/4.0.17)) of the `Elmah.Io.Blazor.Wasm` package. This is the first stable release of the package.

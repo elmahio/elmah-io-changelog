@@ -1,9 +1,0 @@
----
-title: "Clear filters"
-date: 2020-04-13T11:54:13Z
-categories: [New]
-slug: clear-filters-145672
----
-There's a new *Clear filters* button available on the search page for easy removal of added search filters:
-
-![Clear filters](/images/145672/488-b831121d6e846f28d5b2156ea6599647c2bd3f8e.png)

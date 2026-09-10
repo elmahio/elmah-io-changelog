@@ -1,9 +1,0 @@
----
-title: "C# GUID generator"
-date: 2021-12-03T08:37:54Z
-categories: []
-slug: c-guid-generator-215528
----
-Ever googled for a GUID generator to generate a batch of GUIDs for unit tests or similar? Look no further, we have released a free tool that also generates C# code: https://elmah.io/tools/guid-generator/
-
-[![C# GUID generator](/images/215528/480-c2a11bbddfb7c97adc2ae3d955ca1aa0c03d243a.png)](https://elmah.io/tools/guid-generator/)

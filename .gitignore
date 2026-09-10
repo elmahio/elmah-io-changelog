@@ -1,4 +1,5 @@
-bin/
-obj/
-site/
-.vs/
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/

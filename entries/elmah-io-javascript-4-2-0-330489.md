@@ -1,9 +1,0 @@
----
-title: "Elmah.Io.JavaScript 4.2.0"
-date: 2026-01-22T07:28:46Z
-categories: [New]
-slug: elmah-io-javascript-4-2-0-330489
----
-We released a new version ([4.2.0](https://www.npmjs.com/package/elmah.io.javascript/v/4.2.0)) of the `Elmah.Io.JavaScript` package. The new version includes the following changes:
-
-- Added support for User-Agent client hints. This will improve the User-Agent visualization inside the elmah.io UI.

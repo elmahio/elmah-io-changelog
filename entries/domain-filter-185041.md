@@ -1,9 +1,0 @@
----
-title: "Domain filter"
-date: 2021-02-08T08:47:54Z
-categories: [New]
-slug: domain-filter-185041
----
-There's a new *Domain* filter available on search. With this filter, you can search for all log messages coming from a specific domain or subdomain. The domain name is automatically extracted from server variables where possible.
-
-![Add domain filter](/images/185041/905-1806666ee4f6cae86b4f15387b623ebb3fe90768.png)

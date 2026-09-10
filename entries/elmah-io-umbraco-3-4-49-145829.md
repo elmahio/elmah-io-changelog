@@ -1,7 +1,0 @@
----
-title: "Elmah.Io.Umbraco 3.4.49"
-date: 2020-04-14T09:30:22Z
-categories: [Improvement]
-slug: elmah-io-umbraco-3-4-49-145829
----
-We released a new version ([3.4.49](https://www.nuget.org/packages/elmah.io.umbraco/3.4.49)) of the `Elmah.Io.Umbraco` package. This version includes the newest version of all elmah.io NuGet package dependencies.

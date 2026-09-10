@@ -1,0 +1,20 @@
+title: elmah.io changelog
+description: What's new on elmah.io
+url: "https://changelog.elmah.io"
+
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+
+paginate: 20
+paginate_path: "/page/:num/"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - README.md
