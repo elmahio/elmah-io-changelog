@@ -1,9 +1,8 @@
 # elmah.io changelog
 
-Source for [changelog.elmah.io](https://changelog.elmah.io), published as markdown instead
-of through a third-party changelog SaaS. Built with [Jekyll](https://jekyllrb.com/) and
-served by GitHub Pages, which builds and deploys it automatically on every push to `main`
-(no CI workflow needed).
+Source for [changelog.elmah.io](https://changelog.elmah.io), published as markdown.
+Built with [Jekyll](https://jekyllrb.com/) and served by GitHub Pages, which builds
+and deploys it automatically on every push to `main` (no CI workflow needed).
 
 ## Adding an entry
 
