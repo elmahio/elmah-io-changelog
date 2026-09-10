@@ -6,7 +6,8 @@
     "url": {{ post.url | jsonify }},
     "title": {{ post.title | jsonify }},
     "date": {{ post.date | date_to_xmlschema | jsonify }},
-    "category": {{ post.categories.first | jsonify }}
+    "category": {{ post.categories.first | jsonify }},
+    "excerpt": {{ post.content | replace: "</p>", " " | replace: "<br />", " " | strip_html | strip_newlines | strip | truncate: 140 | jsonify }}
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}
 ]
