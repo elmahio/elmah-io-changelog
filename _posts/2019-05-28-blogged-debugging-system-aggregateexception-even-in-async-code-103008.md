@@ -8,4 +8,4 @@ permalink: /blogged-debugging-system-aggregateexception-even-in-async-code-10300
 
 [https://blog.elmah.io/debugging-system-aggregateexception-even-in-async-code/](https://blog.elmah.io/debugging-system-aggregateexception-even-in-async-code/)
 
-[![Debugging System.AggregateException - even in async code](/images/103008/295-3c08d5b175a7b1e63991151bbae93e4578b48028.png)]([https://blog.elmah.io/debugging-system-aggregateexception-even-in-async-code/](https://blog.elmah.io/debugging-system-aggregateexception-even-in-async-code/))
+[![Debugging System.AggregateException - even in async code](/images/103008/295-3c08d5b175a7b1e63991151bbae93e4578b48028.png)](https://blog.elmah.io/debugging-system-aggregateexception-even-in-async-code/)

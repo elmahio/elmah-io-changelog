@@ -8,4 +8,4 @@ permalink: /blogged-debugging-system-io-filenotfoundexception-cause-and-fix-9345
 
 [https://blog.elmah.io/debugging-system-io-filenotfoundexception-cause-and-fix/](https://blog.elmah.io/debugging-system-io-filenotfoundexception-cause-and-fix/)
 
-[![debugging-system-io-filenotfoundexception-cause-and-fix.png](/images/93451/882-cdb1ef40d2b498e0436497006538b6c9b237e230.png)]([https://blog.elmah.io/debugging-system-io-filenotfoundexception-cause-and-fix/](https://blog.elmah.io/debugging-system-io-filenotfoundexception-cause-and-fix/))
+[![debugging-system-io-filenotfoundexception-cause-and-fix.png](/images/93451/882-cdb1ef40d2b498e0436497006538b6c9b237e230.png)](https://blog.elmah.io/debugging-system-io-filenotfoundexception-cause-and-fix/)

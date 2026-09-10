@@ -8,4 +8,4 @@ permalink: /blogged-common-exceptions-and-fixes-in-entity-framework-and-sql-serv
 
 [https://blog.elmah.io/common-exceptions-and-fixes-in-entity-framework-and-sql-server/](https://blog.elmah.io/common-exceptions-and-fixes-in-entity-framework-and-sql-server/)
 
-[![common-exceptions-and-fixes-in-entity-framework-and-sql-server.png](/images/125710/758-03e06cea37630dcc402e7b286d67a97de8ad28de.png)]([https://blog.elmah.io/common-exceptions-and-fixes-in-entity-framework-and-sql-server/](https://blog.elmah.io/common-exceptions-and-fixes-in-entity-framework-and-sql-server/))
+[![common-exceptions-and-fixes-in-entity-framework-and-sql-server.png](/images/125710/758-03e06cea37630dcc402e7b286d67a97de8ad28de.png)](https://blog.elmah.io/common-exceptions-and-fixes-in-entity-framework-and-sql-server/)

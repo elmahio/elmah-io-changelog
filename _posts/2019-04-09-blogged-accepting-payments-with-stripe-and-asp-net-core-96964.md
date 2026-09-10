@@ -8,4 +8,4 @@ permalink: /blogged-accepting-payments-with-stripe-and-asp-net-core-96964/
 
 [https://blog.elmah.io/accepting-payments-with-stripe-and-aspnet-core/](https://blog.elmah.io/accepting-payments-with-stripe-and-aspnet-core/)
 
-[![accepting-payments-with-stripe-and-aspnet-core.png](/images/96964/007-8763c46841368e68da5ab066e2e863a137cf5a5e.png)]([https://blog.elmah.io/accepting-payments-with-stripe-and-aspnet-core/](https://blog.elmah.io/accepting-payments-with-stripe-and-aspnet-core/))
+[![accepting-payments-with-stripe-and-aspnet-core.png](/images/96964/007-8763c46841368e68da5ab066e2e863a137cf5a5e.png)](https://blog.elmah.io/accepting-payments-with-stripe-and-aspnet-core/)

@@ -8,4 +8,4 @@ permalink: /blogged-boosting-code-readability-and-manageability-in-asp-net-core-
 
 [https://blog.elmah.io/boosting-code-readability-and-manageability-in-asp-net-core/](https://blog.elmah.io/boosting-code-readability-and-manageability-in-asp-net-core/)
 
-[![Boosting Code Readability and Manageability in ASP.NET Core](/images/301678/418-dda6d4bfd6653c2652f8d600725435ab494f252d.png)]([https://blog.elmah.io/boosting-code-readability-and-manageability-in-asp-net-core/](https://blog.elmah.io/boosting-code-readability-and-manageability-in-asp-net-core/))
+[![Boosting Code Readability and Manageability in ASP.NET Core](/images/301678/418-dda6d4bfd6653c2652f8d600725435ab494f252d.png)](https://blog.elmah.io/boosting-code-readability-and-manageability-in-asp-net-core/)

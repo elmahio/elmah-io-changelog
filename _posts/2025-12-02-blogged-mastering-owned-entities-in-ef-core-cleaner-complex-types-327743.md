@@ -8,6 +8,6 @@ permalink: /blogged-mastering-owned-entities-in-ef-core-cleaner-complex-types-32
 
 [https://blog.elmah.io/mastering-owned-entities-in-ef-core-cleaner-complex-types/](https://blog.elmah.io/mastering-owned-entities-in-ef-core-cleaner-complex-types/)
 
-[![Mastering owned entities in EF Core: Cleaner complex types](/images/327743/718-c476c33c2521b4ecfd46d9551465dba86c181b50.png)]([https://blog.elmah.io/mastering-owned-entities-in-ef-core-cleaner-complex-types/](https://blog.elmah.io/mastering-owned-entities-in-ef-core-cleaner-complex-types/))
+[![Mastering owned entities in EF Core: Cleaner complex types](/images/327743/718-c476c33c2521b4ecfd46d9551465dba86c181b50.png)](https://blog.elmah.io/mastering-owned-entities-in-ef-core-cleaner-complex-types/)
 
 Learn how EF Core owned entities simplify complex value objects by keeping dependent data inside the parent entity for a cleaner domain model.

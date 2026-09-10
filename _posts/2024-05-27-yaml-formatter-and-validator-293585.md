@@ -10,4 +10,4 @@ As you may know, we have developed a range of free online [tools](https://elmah.
 
 Recently, we released a new [YAML formatter and validator](https://elmah.io/tools/yaml-formatter/) that offers a couple of features that we either didn't find anywhere else or at least didn't have in the same tool.
 
-[![YAML formatter and validator](/images/293585/141-b9b60f45231a214a8311f72b3ebb50440189be92.png)]([https://elmah.io/tools/yaml-formatter/](https://elmah.io/tools/yaml-formatter/))
+[![YAML formatter and validator](/images/293585/141-b9b60f45231a214a8311f72b3ebb50440189be92.png)](https://elmah.io/tools/yaml-formatter/)

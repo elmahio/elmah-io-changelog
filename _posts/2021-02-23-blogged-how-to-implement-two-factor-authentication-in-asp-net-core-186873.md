@@ -8,4 +8,4 @@ permalink: /blogged-how-to-implement-two-factor-authentication-in-asp-net-core-1
 
 [https://blog.elmah.io/how-to-implement-two-factor-authentication-with-asp-net-core/](https://blog.elmah.io/how-to-implement-two-factor-authentication-with-asp-net-core/)
 
-[![How to implement two-factor authentication in ASP.NET Core](/images/186873/772-36092e95cf45f0d706dfd1c31c94d198194ecfa9.png)]([https://blog.elmah.io/how-to-implement-two-factor-authentication-with-asp-net-core/](https://blog.elmah.io/how-to-implement-two-factor-authentication-with-asp-net-core/))
+[![How to implement two-factor authentication in ASP.NET Core](/images/186873/772-36092e95cf45f0d706dfd1c31c94d198194ecfa9.png)](https://blog.elmah.io/how-to-implement-two-factor-authentication-with-asp-net-core/)

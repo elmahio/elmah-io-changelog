@@ -8,6 +8,6 @@ permalink: /blogged-new-in-net-10-and-c-14-enhancements-in-apis-request-response
 
 [https://blog.elmah.io/new-in-net-10-and-c-14-enhancements-in-apis-request-response-pipeline/](https://blog.elmah.io/new-in-net-10-and-c-14-enhancements-in-apis-request-response-pipeline/)
 
-[![New in .NET 10 and C# 14: Enhancements in APIs Request/Response Pipeline](/images/329958/187-972a3fb5666c167e541b4521a5420555c227bdbb.png)]([https://blog.elmah.io/new-in-net-10-and-c-14-enhancements-in-apis-request-response-pipeline/](https://blog.elmah.io/new-in-net-10-and-c-14-enhancements-in-apis-request-response-pipeline/))
+[![New in .NET 10 and C# 14: Enhancements in APIs Request/Response Pipeline](/images/329958/187-972a3fb5666c167e541b4521a5420555c227bdbb.png)](https://blog.elmah.io/new-in-net-10-and-c-14-enhancements-in-apis-request-response-pipeline/)
 
 Explore how .NET 10 and C# 14 boost API performance. Learn about static lambdas, JSON optimizations, and benchmarks that improve response times.

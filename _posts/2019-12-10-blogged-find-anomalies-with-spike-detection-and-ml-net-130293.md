@@ -8,4 +8,4 @@ permalink: /blogged-find-anomalies-with-spike-detection-and-ml-net-130293/
 
 [https://blog.elmah.io/find-anomalies-with-spike-detection-and-ml-net/](https://blog.elmah.io/find-anomalies-with-spike-detection-and-ml-net/)
 
-[![Find anomalies with spike detection and ML.NET](/images/130293/477-abe2bb87d854ec54258265bf531e4bcdb8a91c83.png)]([https://blog.elmah.io/find-anomalies-with-spike-detection-and-ml-net/](https://blog.elmah.io/find-anomalies-with-spike-detection-and-ml-net/))
+[![Find anomalies with spike detection and ML.NET](/images/130293/477-abe2bb87d854ec54258265bf531e4bcdb8a91c83.png)](https://blog.elmah.io/find-anomalies-with-spike-detection-and-ml-net/)

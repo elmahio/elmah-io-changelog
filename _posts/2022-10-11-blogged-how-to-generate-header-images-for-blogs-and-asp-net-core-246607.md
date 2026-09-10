@@ -8,4 +8,4 @@ permalink: /blogged-how-to-generate-header-images-for-blogs-and-asp-net-core-246
 
 [https://blog.elmah.io/how-to-generate-header-images-for-blogs-and-asp-net-core/](https://blog.elmah.io/how-to-generate-header-images-for-blogs-and-asp-net-core/)
 
-[![How to generate header images for blogs and ASP.NET Core](/images/246607/558-6a15e871c181741c12c3ef351b4a25632afe6a28.png)]([https://blog.elmah.io/how-to-generate-header-images-for-blogs-and-asp-net-core/](https://blog.elmah.io/how-to-generate-header-images-for-blogs-and-asp-net-core/))
+[![How to generate header images for blogs and ASP.NET Core](/images/246607/558-6a15e871c181741c12c3ef351b4a25632afe6a28.png)](https://blog.elmah.io/how-to-generate-header-images-for-blogs-and-asp-net-core/)

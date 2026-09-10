@@ -8,4 +8,4 @@ permalink: /blogged-hosting-a-mkdocs-driven-documentation-site-on-github-pages-2
 
 [https://blog.elmah.io/hosting-a-mkdocs-driven-documentation-site-on-github-pages/](https://blog.elmah.io/hosting-a-mkdocs-driven-documentation-site-on-github-pages/)
 
-[![Hosting a MkDocs-driven documentation site on GitHub Pages](/images/233665/897-53997758414a30a0821e842f6f7521442ca0c1d9.png)]([https://blog.elmah.io/hosting-a-mkdocs-driven-documentation-site-on-github-pages/](https://blog.elmah.io/hosting-a-mkdocs-driven-documentation-site-on-github-pages/))
+[![Hosting a MkDocs-driven documentation site on GitHub Pages](/images/233665/897-53997758414a30a0821e842f6f7521442ca0c1d9.png)](https://blog.elmah.io/hosting-a-mkdocs-driven-documentation-site-on-github-pages/)

@@ -8,4 +8,4 @@ permalink: /blogged-schedule-background-job-using-quartz-net-304810/
 
 [https://blog.elmah.io/schedule-background-job-using-quartz-net/](https://blog.elmah.io/schedule-background-job-using-quartz-net/)
 
-[![Schedule Background Job using Quartz.NET](/images/304810/662-061b62943a336c87031320306cf0e4cbd2ca7c95.png)]([https://blog.elmah.io/schedule-background-job-using-quartz-net/](https://blog.elmah.io/schedule-background-job-using-quartz-net/))
+[![Schedule Background Job using Quartz.NET](/images/304810/662-061b62943a336c87031320306cf0e4cbd2ca7c95.png)](https://blog.elmah.io/schedule-background-job-using-quartz-net/)

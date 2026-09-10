@@ -14,4 +14,4 @@ Good news for all of you elmah.io Visual Studio extension users out there. We re
 - Multiple organizations support.
 - Authorize access to an organization from within the extension.
 
-[![Visual Studio extension v3](/images/105964/395-21fa943754f60840fab420c97c26ab38d58802f1.png)]([https://marketplace.visualstudio.com/items?itemName=elmahio.elmahio](https://marketplace.visualstudio.com/items?itemName=elmahio.elmahio))
+[![Visual Studio extension v3](/images/105964/395-21fa943754f60840fab420c97c26ab38d58802f1.png)](https://marketplace.visualstudio.com/items?itemName=elmahio.elmahio)
