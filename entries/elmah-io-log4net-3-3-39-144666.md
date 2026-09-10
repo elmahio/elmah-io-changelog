@@ -1,0 +1,7 @@
+---
+title: "Elmah.Io.Log4Net 3.3.39"
+date: 2020-04-06T07:35:43Z
+categories: [Improvement]
+slug: elmah-io-log4net-3-3-39-144666
+---
+We released a new version ([3.3.39](https://www.nuget.org/packages/elmah.io.log4net/3.3.39)) of the `Elmah.Io.Log4Net` package. This version bundle the recent stable version of the `Elmah.Io.Client` package.

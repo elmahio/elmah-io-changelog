@@ -1,0 +1,7 @@
+---
+title: "Elmah.Io.Client 3.7.79"
+date: 2020-01-20T19:14:44Z
+categories: [Improvement]
+slug: elmah-io-client-3-7-79-134307
+---
+We released a new version ([3.7.79](https://www.nuget.org/packages/elmah.io.client/3.7.79)) of the `Elmah.Io.Client` package. The changes are primarily around the upcoming [Heartbeats](https://elmah.io/features/heartbeats/) feature. We did include a minor fix that may want you to upgrade, though. `Elmah.Io.Client` is now targeting `netstandard2.0` which will make some of the dependencies needed in the past redundant (when on a newer version of .NET or .NET Core).

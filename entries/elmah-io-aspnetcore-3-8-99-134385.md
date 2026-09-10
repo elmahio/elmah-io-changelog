@@ -1,0 +1,14 @@
+---
+title: "Elmah.Io.AspNetCore 3.8.99"
+date: 2020-01-21T12:21:33Z
+categories: [Improvement]
+slug: elmah-io-aspnetcore-3-8-99-134385
+---
+We released a new version ([3.8.99](https://www.nuget.org/packages/Elmah.Io.AspNetCore/3.8.99)) of the `Elmah.Io.AspNetCore` package. The biggest change is support for [elmah.io Heartbeats](https://elmah.io/features/heartbeats/). We are not quite ready to move Heartbeats out of beta yet, but the new package for ASP.NET Core is production-ready. Here are the included new features and bugfixes:
+
+- Support elmah.io Heartbeats through ASP.NET Core Health Checks.
+- New sample for ASP.NET Core 3.x.
+- Newest Elmah.Io.Client.
+- Increased timeout in MessageShipper since code is executed behind a queue.
+- Fixed a bug when posting form data without a content type.
+- Upgraded tag helper to include `elmah.io.javascript` version `3.1.1`.

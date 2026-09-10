@@ -1,0 +1,14 @@
+---
+title: "Elmah.Io.JavaScript 4.1.0"
+date: 2023-11-28T15:07:10Z
+categories: [New]
+slug: elmah-io-javascript-4-1-0-280146
+---
+We released a new version ([4.1.0](https://www.npmjs.com/package/elmah.io.javascript/v/4.1.0)) of the `Elmah.Io.JavaScript` package. The new version includes the following changes:
+
+- Support for other types than `Error` in cause.
+- New SvelteKit sample.
+- Updated ASP.NET Core 2.1 sample to ASP.NET Core 6.
+- Updated the rest of the samples to use elmah.io.javascript 4.0.0.
+- Fixed two bugs that could happen when generating inspector object.
+- Don't add inspector when detail is not set.

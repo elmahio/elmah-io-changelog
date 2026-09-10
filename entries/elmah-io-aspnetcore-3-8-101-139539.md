@@ -1,0 +1,7 @@
+---
+title: "Elmah.Io.AspNetCore 3.8.101"
+date: 2020-03-01T10:30:02Z
+categories: [Improvement]
+slug: elmah-io-aspnetcore-3-8-101-139539
+---
+We [released a new minor](https://www.nuget.org/packages/Elmah.Io.AspNetCore/) version of the `Elmah.Io.AspNetCore` package. The new version includes XML documentation for all methods. This goes for both error logging and heartbeats (ASP.NET Core Health Checks).

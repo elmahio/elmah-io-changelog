@@ -1,0 +1,9 @@
+---
+title: "Copy header"
+date: 2021-03-04T07:09:58Z
+categories: [New]
+slug: copy-header-187835
+---
+There's a new copy button on values in the extended details view. Easily copy the value of a server variable, a custom data entry, etc.
+
+![Copy header](/images/187835/313-f46b350a259f50e3db76bb7d4fb1a3f9456423d6.gif)

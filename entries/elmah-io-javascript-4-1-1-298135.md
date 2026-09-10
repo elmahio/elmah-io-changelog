@@ -1,0 +1,9 @@
+---
+title: "Elmah.Io.JavaScript 4.1.1"
+date: 2024-08-02T12:22:07Z
+categories: [New]
+slug: elmah-io-javascript-4-1-1-298135
+---
+We released a new version ([4.1.1](https://www.npmjs.com/package/elmah.io.javascript/v/4.1.1)) of the `Elmah.Io.JavaScript` package. The new version includes the following changes:
+
+- Fixed a bug where logging unhandled errors without a reason would cause a new JavaScript error.

@@ -1,0 +1,15 @@
+---
+title: "Elmah.Io.AspNetCore 5.0.56"
+date: 2023-07-24T08:19:54Z
+categories: [New]
+slug: elmah-io-aspnetcore-5-0-56-270184
+---
+We released a new version ([5.0.56](https://www.nuget.org/packages/Elmah.Io.AspNetCore/5.0.56)) of the `Elmah.Io.AspNetCore`, `Elmah.Io.AspNetCore.HealthChecks`, and `Elmah.Io.AspNetCore.TagHelpers` packages. This is a major version upgrade that may need changes in your code after upgrading. The new version includes the following changes:
+
+- Running on the newest version of `Elmah.Io.Client` with support for [Exception Inspector](https://changelog.elmah.io/announcing-the-new-exception-inspector-265594).
+- Support for adding server variables of type `IPAddress`.
+- Improved error message when calling `Log` or `Ship` without having called `AddElmahIo` first.
+- Updated tag helper to install `elmah.io.javascript` 4.0.0.
+- Removed obsolete method.
+
+Small changes may be needed to upgrade from 4.x to 5.x. Check out [Upgrade elmah.io from v4 to v5](https://docs.elmah.io/upgrade-elmah-io-from-v4-to-v5/) for more information.

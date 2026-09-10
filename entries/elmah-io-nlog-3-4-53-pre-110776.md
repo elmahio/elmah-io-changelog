@@ -1,0 +1,32 @@
+---
+title: "Elmah.Io.NLog 3.4.53-pre"
+date: 2019-07-29T10:09:20Z
+categories: [Improvement]
+slug: elmah-io-nlog-3-4-53-pre-110776
+---
+Message hooks are now part of the elmah.io target for NLog as well ([prerelease available here](https://www.nuget.org/packages/elmah.io.nlog/3.4.53-pre)). Implementing hooks require configuration through C# and looks like this:
+
+```csharp
+var config = new LoggingConfiguration();
+var elmahIoTarget = new ElmahIoTarget();
+elmahIoTarget.Name = "elmahio";
+elmahIoTarget.ApiKey = "API_KEY";
+elmahIoTarget.LogId = "LOG_ID";
+elmahIoTarget.OnMessage = msg =>
+{
+    msg.Version = "1.0.0";
+};
+elmahIoTarget.OnError = (msg, err) =>
+{
+    // Do something here
+};
+elmahIoTarget.OnFilter = msg =>
+{
+    return msg.Title.Contains("trace");
+};
+config.AddTarget(elmahIoTarget);
+config.AddRuleForAllLevels(elmahIoTarget);
+LogManager.Configuration = config;
+```
+
+Read through the [updated documentation](https://docs.elmah.io/logging-to-elmah-io-from-nlog/#message-hooks) for more details.

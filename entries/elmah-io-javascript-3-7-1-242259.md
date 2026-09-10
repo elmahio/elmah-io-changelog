@@ -1,0 +1,9 @@
+---
+title: "Elmah.Io.JavaScript 3.7.1"
+date: 2022-08-29T10:53:17Z
+categories: [New]
+slug: elmah-io-javascript-3-7-1-242259
+---
+We released a new version ([3.7.1](https://www.npmjs.com/package/elmah.io.javascript/v/3.7.1)) of the `Elmah.Io.JavaScript` package. The new version includes the following change:
+
+- Fixed a bug where the `error` event were not triggered for `4xx` status codes from the API.

@@ -1,0 +1,7 @@
+---
+title: "Elmah.Io.WinUI 5.3.24"
+date: 2025-12-11T08:22:25Z
+categories: [New]
+slug: elmah-io-winui-5-3-24-328370
+---
+We released a new version ([5.3.24](https://www.nuget.org/packages/Elmah.Io.WinUI/5.3.24)) of the `Elmah.Io.WinUI` package. This is a new package that has only been in prerelease up until now. The package works like the WPF package in most ways. Check out how to get started here: https://docs.elmah.io/logging-to-elmah-io-from-winui/.

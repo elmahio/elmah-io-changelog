@@ -1,0 +1,13 @@
+---
+title: "Elmah.Io.Umbraco 5.1.33"
+date: 2024-06-06T07:12:21Z
+categories: [New]
+slug: elmah-io-umbraco-5-1-33-294406
+---
+We released a new version ([5.1.33](https://www.nuget.org/packages/Elmah.Io.Umbraco/5.1.33)) of the `Elmah.Io.Umbraco` package. The new version includes the following changes:
+
+- Include checks in elmah.io heartbeats. Umbraco Health Checks are mapped to checks in elmah.io heartbeats.
+- Newest `Elmah.Io.Client`.
+- Building on .NET 8.
+- Upgraded `Microsoft.SourceLink.GitHub` to `8.0.0`.
+- Several code improvements after running Sonar checks. This is all internal so no need for code changes are required by you.

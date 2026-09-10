@@ -1,0 +1,11 @@
+---
+title: "Elmah.Io.Client 4.3.43"
+date: 2022-09-09T08:01:12Z
+categories: [New]
+slug: elmah-io-client-4-3-43-243522
+---
+We released a new version ([4.3.43](https://www.nuget.org/packages/Elmah.Io.Client/4.3.43)) of the `Elmah.Io.Client` package. The new version includes the following changes:
+
+- New `ToMessage` extension method on `Exception` to help generate a prefilled `CreateMessage` object.
+- Synced changes from the latest version of the API.
+- Upgraded samples to .NET 6.

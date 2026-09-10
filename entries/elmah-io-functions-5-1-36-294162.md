@@ -1,0 +1,12 @@
+---
+title: "Elmah.Io.Functions 5.1.36"
+date: 2024-06-04T08:06:36Z
+categories: [New]
+slug: elmah-io-functions-5-1-36-294162
+---
+We released a new version ([5.1.36](https://www.nuget.org/packages/Elmah.Io.Functions/5.1.36)) of the `Elmah.Io.Functions` package. The new version includes the following changes:
+
+- Newest `Elmah.Io.Client`.
+- Upgraded `Microsoft.SourceLink.GitHub` to `8.0.0`.
+- Building on .NET 8.
+- Several code improvements after running Sonar checks. This is all internal so no need for code changes are required by you.

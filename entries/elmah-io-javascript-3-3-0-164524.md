@@ -1,0 +1,21 @@
+---
+title: "elmah.io.javascript 3.3.0"
+date: 2020-08-17T12:48:33Z
+categories: [Improvement]
+slug: elmah-io-javascript-3-3-0-164524
+---
+We released a new version ([3.3.0](https://www.npmjs.com/package/elmah.io.javascript/v/3.3.0)) of the `elmah.io.javascript` package. The new version supports capturing console logging by setting the `captureConsoleMinimumLevel` option:
+
+```javascript
+new Elmahio({
+  apiKey: 'YOUR-API-KEY',
+  logId: 'YOUR-LOG-ID',
+  captureConsoleMinimumLevel: 'error'
+});
+```
+
+Messages logged through `console` are captured by `elmah.io.javascript` and stored on elmah.io:
+
+```javascript
+console.error('This is an %s message.', 'error');
+```

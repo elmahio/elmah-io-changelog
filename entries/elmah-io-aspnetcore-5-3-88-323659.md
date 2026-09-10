@@ -1,0 +1,10 @@
+---
+title: "Elmah.Io.AspNetCore 5.3.88"
+date: 2025-09-25T08:00:00Z
+categories: [New]
+slug: elmah-io-aspnetcore-5-3-88-323659
+---
+We released a new version ([5.3.88](https://www.nuget.org/packages/Elmah.Io.AspNetCore/5.3.88)) of the `Elmah.Io.AspNetCore` package. The new version includes the following changes:
+
+- Made an `OnInstallation` hook available in options.
+- Newest `Elmah.Io.Client`.

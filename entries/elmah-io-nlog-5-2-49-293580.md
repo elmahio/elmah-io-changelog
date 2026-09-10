@@ -1,0 +1,15 @@
+---
+title: "Elmah.Io.NLog 5.2.49"
+date: 2024-05-27T05:53:41Z
+categories: [New]
+slug: elmah-io-nlog-5-2-49-293580
+---
+We released a new version ([5.2.49](https://www.nuget.org/packages/Elmah.Io.NLog/5.2.49)) of the `Elmah.Io.NLog` package. The new version includes the following changes:
+
+- Fixed a bug where no properties on the log event would ignore properties generated through `ToDataList`.
+- Upgraded `NLog` to 5.0.5 (you can use a newer version if you prefer).
+- Upgraded `Microsoft.SourceLink.GitHub` to `8.0.0`.
+- Newest `Elmah.Io.Client`.
+- New .NET 8 sample and removed the .NET 3.1 sample.
+- Building on .NET 8.
+- Several code improvements after running Sonar checks. This is all internal so no need for code changes are required by you.

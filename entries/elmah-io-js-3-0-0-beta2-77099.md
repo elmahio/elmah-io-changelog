@@ -1,0 +1,32 @@
+---
+title: "elmah.io.js 3.0.0-beta2"
+date: 2018-10-23T18:23:47Z
+categories: [New]
+slug: elmah-io-js-3-0-0-beta2-77099
+---
+The second beta of our integration for JavaScript was published earlier today. The new version includes:
+
+### Feedback and bugfixes
+
+All of the feedback for better naming, file placements, and bug reports we have received from you guys, have been incorporated into the new version.
+
+### New events API
+
+To make it easier using events with `elmah.io.js`, we've switched to a new approach similar to Bootstrap and other frameworks:
+
+```javascript
+new Elmahio({
+    ...
+}).on('message', function(msg) {
+    if (!msg.data) msg.data = [];
+    msg.data.push({key: 'MyCustomKey', value: 'MyCustomValue'});
+}).on('error', function(status, text) {
+    console.log('An error happened in elmah.io.js', status, text);
+});
+```
+
+### TypeScript definitions
+
+The full API is now documented using TypeScript definitions. The `d.ts` file is included in both the [npm](https://www.npmjs.com/package/elmah.io.js/v/3.0.0-beta2) and [NuGet](https://www.nuget.org/packages/elmah.io.js/3.0.0-beta2) package, and available on [GitHub](https://github.com/elmahio/elmah.io.js/blob/master/typescript/elmahio.d.ts) too. The definitions will bring both IntelliSense and textual documentation into Visual Studio.
+
+Checkout of the updated documentation to learn more about `elmah.io.js`: [Logging to elmah.io from JavaScript](https://docs.elmah.io/logging-to-elmah-io-from-javascript/)

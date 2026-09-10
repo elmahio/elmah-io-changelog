@@ -1,0 +1,11 @@
+---
+title: "Elmah.Io.Umbraco 4.0.8"
+date: 2021-08-19T06:39:00Z
+categories: [New]
+slug: elmah-io-umbraco-4-0-8-204634
+---
+We released a new version ([4.0.8](https://www.nuget.org/packages/elmah.io.umbraco/4.0.8)) of the `Elmah.Io.Umbraco` package. The new version includes the following change:
+
+- Running on the newest version of the new `Elmah.Io.Client` v4 package moving from AutoRest to NSwag.
+
+Upgrading from `3.x` to `4.x` may require changes in your code. Check out [Upgrade elmah.io from v3 to v4](https://docs.elmah.io/upgrade-elmah-io-from-v3-to-v4/) for details.

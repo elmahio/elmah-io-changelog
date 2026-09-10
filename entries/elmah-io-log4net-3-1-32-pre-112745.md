@@ -1,0 +1,14 @@
+---
+title: "Elmah.Io.Log4Net 3.1.32-pre"
+date: 2019-08-13T06:29:57Z
+categories: [Improvement]
+slug: elmah-io-log4net-3-1-32-pre-112745
+---
+There's a [new version](https://www.nuget.org/packages/Elmah.Io.Log4Net/3.1.32-pre) of our integration with log4net. Key features for this release are performance improvements using the new `Elmah.Io.Client` as well as support for setting elmah.io fields through log4net properties:
+
+```csharp
+log4net.ThreadContext.Properties["user"] = "Arnold Schwarzenegger";
+log.Info("Hasta la vista, baby");
+```
+
+Check out the [documentation](https://docs.elmah.io/logging-to-elmah-io-from-log4net/) for more details.

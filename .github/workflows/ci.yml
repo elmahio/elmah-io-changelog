@@ -1,0 +1,56 @@
+name: ci
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Only one Pages deployment at a time; let in-flight deployments finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: Generate site
+        run: dotnet run --project src/ChangelogGenerator/ChangelogGenerator.csproj
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Create Deployment on elmah.io
+        uses: elmahio/github-create-deployment-action@v1
+        with:
+          apiKey: ${{ secrets.ELMAH_IO_API_KEY }}
+          version: ${{ github.run_number }}
+          description: ${{ github.event.head_commit.message }}
+          userName: ${{ github.actor }}
+          logId: ${{ secrets.ELMAH_IO_LOG_ID }}
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

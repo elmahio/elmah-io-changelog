@@ -1,0 +1,12 @@
+---
+title: "Elmah.Io.NLog 3.9.16"
+date: 2021-05-07T14:36:04Z
+categories: [New]
+slug: elmah-io-nlog-3-9-16-194351
+---
+We released a new version ([3.9.16](https://www.nuget.org/packages/Elmah.Io.NLog/3.9.16)) of the `Elmah.Io.NLog` package. The new version includes the following changes:
+
+- Running on the newest `Elmah.Io.Client` package.
+- Support for setting correlation id from properties.
+- Support setting the version field through MLDC and GDC.
+- `Application` property obsolete. The application name must be set from the global context.
