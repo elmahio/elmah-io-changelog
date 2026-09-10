@@ -24,10 +24,18 @@ referenced with a root-relative path, e.g. `/images/my-new-feature/screenshot.pn
 
 ## Local preview
 
-Requires Docker (avoids installing Ruby locally):
+### Option A: install Jekyll natively
+
+1. Install Ruby via [rubyinstaller.org](https://rubyinstaller.org/) - pick the **Ruby+Devkit**
+   version, and accept the MSYS2/build-tools step at the end of setup.
+2. From this folder: `bundle install` (uses the `Gemfile`, which pins the exact Jekyll/kramdown/
+   plugin versions GitHub Pages itself builds with, via the `github-pages` gem).
+3. `bundle exec jekyll serve`, then open http://localhost:4000.
+
+### Option B: Docker (no local Ruby install)
 
 ```sh
-docker run --rm -it -v "${PWD}:/srv/jekyll" -p 4000:4000 jekyll/jekyll jekyll serve
+docker run --rm -it -v "${PWD}:/srv/jekyll" -p 4000:4000 jekyll/jekyll sh -c "bundle install && bundle exec jekyll serve --host 0.0.0.0"
 ```
 
 Then open http://localhost:4000.
