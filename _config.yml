@@ -1,9 +1,6 @@
 title: elmah.io changelog
 description: New features, fixes, and improvements to elmah.io - AI-powered error logging and uptime monitoring for .NET.
-# TEMPORARY: swap back to https://changelog.elmah.io once that's the live domain (drives
-# canonical URLs, og:url, and the RSS feed links - see elmah.io.app's web.config CSP and
-# header.js CHANGELOG_BASE for the other temporary changelog2.elmah.io references).
-url: "https://changelog2.elmah.io"
+url: "https://changelog.elmah.io"
 
 markdown: kramdown
 plugins:
