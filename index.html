@@ -9,11 +9,11 @@ title: elmah.io changelog
 {% endif %}
 {% for post in paginator.posts %}
 <article class="card">
-  <a href="{{ post.url | relative_url }}"><h2>{{ post.title }}</h2></a>
   <div class="meta">
-    {% if post.categories.first %}<span class="badge badge-{{ post.categories.first | downcase }}">{{ post.categories.first }}</span>{% endif %}
     <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+    {% if post.categories.first %}<span class="badge badge-{{ post.categories.first | downcase }}">{{ post.categories.first }}</span>{% endif %}
   </div>
+  <a href="{{ post.url | relative_url }}"><h2>{{ post.title }}</h2></a>
   <div class="body">{{ post.content }}</div>
 </article>
 {% endfor %}

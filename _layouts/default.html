@@ -17,23 +17,38 @@
   <meta name="msapplication-TileImage" content="/mstile-144x144.png">
   <style>
     :root { color-scheme: light dark; }
-    body { font-family: -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; max-width: 720px; margin: 0 auto; padding: 2rem 1.25rem 4rem; line-height: 1.6; color: #1b1f23; background: #fff; }
-    @media (prefers-color-scheme: dark) { body { color: #e6e6e6; background: #14181c; } a { color: #6cb6ff; } }
-    a { color: #0f6fde; text-decoration: none; }
+    body { font-family: -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; max-width: 720px; margin: 0 auto; padding: 1.875rem 1.25rem 4rem; line-height: 1.6; color: #212529; background: #e9ecef; }
+    a { color: #0da58e; text-decoration: none; }
     a:hover { text-decoration: underline; }
-    h1 { font-size: 1.5rem; margin-bottom: .25rem; }
+    h1 { font-size: 1.75rem; margin-top: 0; }
     h1 a { color: inherit; }
-    .card, .entry { padding: 1.5rem 0; border-bottom: 1px solid rgba(128,128,128,.25); }
-    .card h2 { font-size: 1.15rem; margin: 0 0 .25rem; color: inherit; }
+    .card, .entry { background: #fff; padding: 1rem; margin-bottom: 1rem; border: 1px solid #d2d2d2; border-radius:0.25rem; }
+    .card h2, .entry h1 { font-size: 1.3125rem; margin: 0 0 .25rem; color: #212529; }
+    .card a:has(h2) { text-decoration: none; }
+    .card p, .entry p { color: #32393f; font-size: .875rem; }
+    .card p:first-child, .entry p:first-child { margin-top: 0px; }
+    .card p:last-child, .entry p:last-child { margin-bottom: 0px; }
     .back { display: inline-block; margin-bottom: 1rem; font-size: .9rem; }
-    .meta { font-size: .85rem; opacity: .7; margin-bottom: .5rem; display: flex; gap: .5rem; align-items: center; }
-    .badge { display: inline-block; padding: .1rem .5rem; border-radius: 1rem; font-size: .75rem; font-weight: 600; color: #fff; }
-    .badge-new { background: #3778ff; }
-    .badge-improvement { background: #16a085; }
-    .badge-fix { background: #e74c3c; }
-    .body img { max-width: 100%; border-radius: 6px; }
+    .meta { font-size: .8125rem; margin-bottom: .15rem; display: flex; gap: .5rem; align-items: center; }
+    .meta time { color: #6c757d; }
+    .badge { display: inline-block; padding: .1rem .5rem; border-radius: 0.15rem; font-size: .75rem; font-weight: 600; color: #fff; margin-left: auto; }
+    .badge-new { background: #0b608a; }
+    .badge-improvement { background: #0da58e; }
+    .badge-fix { background: #dc3545; }
+    .body img { max-width: 100%; border-radius: 4px; }
     .body pre { overflow-x: auto; padding: .75rem; background: rgba(128,128,128,.12); border-radius: 6px; }
     .pagination { margin-top: 2rem; display: flex; justify-content: space-between; font-size: .9rem; }
+    .pagination a, a.back { text-decoration: none; color: #fff; background: #869ab8; padding: 6px 12px; border: 1px solid #788aa5; border-radius:0.25rem; }
+
+    @media (prefers-color-scheme: dark) { 
+      body { color: #dee2e6; background: #202124; }
+      a { color: #0da58e; }
+      .card, .entry { background: #1b1c1e; border: 1px solid #37393a; }
+      .card h2, .entry h1 { color: #dee2e6; }
+      .card p, .entry p { color: #ADB2BA }
+      .meta time { color: #7a7c85; }
+      .pagination a, a.back { color: #fff; background: #303136; border-color: #37393a; }
+    }
   </style>
 </head>
 <body>
