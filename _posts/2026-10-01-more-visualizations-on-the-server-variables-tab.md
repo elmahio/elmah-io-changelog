@@ -1,6 +1,6 @@
 ---
 title: More visualizations on the Server Variables tab
-date: 2026-10-01T08:00:00Z
+date: 2026-10-01T07:00:00Z
 categories: [Improvement]
 permalink: /more-visualizations-on-the-server-variables-tab/
 ---
