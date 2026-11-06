@@ -1,6 +1,6 @@
 ---
 title: Lighthouse now includes an Agentic Browsing score
-date: 2026-11-05T06:00:00Z
+date: 2026-11-06T06:00:00Z
 categories: [New]
 permalink: /lighthouse-agentic-browsing-score/
 ---
